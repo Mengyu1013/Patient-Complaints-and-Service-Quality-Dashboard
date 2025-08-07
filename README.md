@@ -2,7 +2,7 @@
 
 This repository presents a redesigned Tableau dashboard focused on analyzing patient complaints and improving service quality monitoring in healthcare.
 
-
+![Dashboard Preview](./Dashboard_.jpg)
 
 ## 📌 Overview
 
